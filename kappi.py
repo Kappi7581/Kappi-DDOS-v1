@@ -24,7 +24,7 @@ print
 print('"Coded By: Kappi"')
 print('"Version: v1"')
 print('"Github: github.com/Kappi7581"')
-print('"Discord: https://dsc.gg/kappiservices"')
+print('"Discord: https://discord.gg/Svqr2cyVKz"')
 print('"Kappi Ddos v1 is a project entirely owned by Kappi, we do not take responsibility."')
 print
 ip = raw_input("IP.                 : ")
